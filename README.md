@@ -1,5 +1,5 @@
 # Deep Connected Attention Networks (DCANet)
-By anonymous CVPR 2020 submission. Paper ID: 4735<br><br>
+By anonymous ECCV 2020 submission. Paper ID: 4574<br><br>
 
 ## Illustration
 <div align="center">
