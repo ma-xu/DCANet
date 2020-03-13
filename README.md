@@ -3,7 +3,7 @@ By anonymous CVPR 2020 submission. Paper ID: 4735<br><br>
 
 ## Illustration
 <div align="center">
-  <img src="figures/demo2.png" width="500px" height="300px">
+  <img src="figures/demo2.png" width="650px" height="300px">
 </div>
 
 Figure 1. Illustration of our DCANet. We visualize intermediate feature activation using Grad-CAM. Vanilla SE-ResNet50 varies its focus dramatically at different stages. In contrast, our DCA enhanced SE-ResNet50 **progressively and recursively** adjusts focus, and closely pays attention to the target object.
