@@ -76,13 +76,13 @@ Table 1. Single crop classification accuracy (%) on ImageNet validation set. We 
         <a href="https://drive.google.com/open?id=1lOXZv0IskrLLbm_z7JqonR6KaQ7lRpKP">model</a> 
         <a href="https://drive.google.com/open?id=1gl43ufL2Pvum-dZy8B4yAnnV3bl1BSi2">log</a> 
     </td>
-  <td><b>77.64</b></td>  
-    <td>93.74</td>
+  <td><b>77.55</b></td>  
+    <td>93.77</td>
     <td>4.13</td>
-    <td>30.90M</td>
+    <td>28.65M</td>
     <td>
-        <a href="https://drive.google.com/open?id=1du9DiFiinqrkbx2Nlkhtb1CkIBSTsWZT">model</a> 
-        <a href="https://drive.google.com/open?id=10zWHU5kQj7F-ecAH-YrY_hNjHWJPPPDm">log</a> 
+        <a href="https://drive.google.com/open?id=1AkA4fPouklyX3iItQyWzRm5K2BxhwRkS">model</a> 
+        <a href="https://drive.google.com/open?id=1Sn3kV0_h5jMqIafdX8TTpIeeakRczblD">log</a> 
     </td>
 </tr>
 <tr align="center">
