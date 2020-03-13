@@ -10,7 +10,7 @@ Figure 1. Illustration of our DCANet. We visualize intermediate feature activati
 
 ## Approach
 <div align="center" style="width: 10%">
-  <img src="figures/general_strcture4.png" width="700px" height="140px">
+  <img src="figures/general_structure4.png" width="700px" height="140px">
 </div>
 
 Figure 2. **An overview of our Deep Connected Attention Network.** We connect the output of transformation module in the previous attention block to the output of extraction module in current attention block. In the context of multiple attention dimensions, we connect attentions along each dimension. Here we show an example with two attention dimensions. It can be extended to more dimensions.
