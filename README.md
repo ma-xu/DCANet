@@ -1,5 +1,4 @@
 # Deep Connected Attention Networks (DCANet)
-By anonymous ECCV 2020 submission. Paper ID: 4574<br><br>
 
 ## Illustration
 <div align="center">
